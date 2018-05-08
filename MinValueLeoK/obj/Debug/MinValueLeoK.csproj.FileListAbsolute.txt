@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\bin\Debug\MinValueLeoK.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\bin\Debug\MinValueLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\bin\Debug\MinValueLeoK.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.frmMinValueLeoK.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Kay, Leo (s240457)\Unit 5 (Arrays & Lists)\MinValueLeoK\MinValueLeoK\obj\Debug\MinValueLeoK.pdb
